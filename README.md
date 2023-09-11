@@ -25,7 +25,7 @@ Neste projeto, empreguei várias ferramentas e tecnologias:
   * Criação de medidas DAX para análises avançadas
 
 ## Próximos Passos
- - Nosso próximo objetivo é armazenar os dados em um ambiente de nuvem, permitindo-nos criar um histórico de informações. Isso possibilitará análises mais profundas e detalhadas no futuro.
+ - Próximo objetivo é armazenar os dados em um ambiente de nuvem, permitindo criar um histórico de informações. Isso possibilitará análises mais profundas e detalhadas no futuro.
 
 ## Links
  - [Post Linkedln](https://www.linkedin.com/feed/update/urn:li:activity:7104105744744001536/)
